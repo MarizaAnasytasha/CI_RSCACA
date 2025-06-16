@@ -1,5 +1,5 @@
 <footer class="main-footer text-center">
-  <strong>&copy; <?= date('Y'); ?> RS Aurora medical center.</strong> All rights reserved.
+  <strong>&copy; <?= date('Y'); ?> RS Aurora Medical Center.</strong> All rights reserved.
 </footer>
 
 
